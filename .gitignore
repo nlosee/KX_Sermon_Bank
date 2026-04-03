@@ -1,0 +1,7 @@
+.env
+data/captions/
+data/videos.json
+data/import.log
+__pycache__/
+*.pyc
+*.pyo
